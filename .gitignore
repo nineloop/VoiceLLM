@@ -45,3 +45,4 @@ env/
 
 # Claude Code
 .claude/
+CLAUDE.md
